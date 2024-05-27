@@ -40,9 +40,6 @@ input{
     width: 150px;
     transition: .2s;
 }
-input:hover{
-    padding: .8rem;
-}
 #solve{
     cursor: pointer;
     background-color: aliceblue;
