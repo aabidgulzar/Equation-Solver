@@ -16,7 +16,7 @@ h1{
     color: blue;
 }
 h4{
-    color: red;
+    color: cyan;
 }
 h3{
     color: rgb(3, 191, 163);
@@ -39,6 +39,7 @@ input{
     color: rgb(0, 166, 255);
     width: 150px;
     transition: .2s;
+    outline: none;
 }
 #solve{
     cursor: pointer;
